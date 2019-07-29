@@ -10,12 +10,12 @@ AE/
   
 　├image/　%画像とタグデータを入れるディレクトリ
   
-　　├画像10枚
+　│　├画像10枚
     
-　　├タグデータ.csv
+　│　└タグデータ.csv
     
 　├effects_img/　%エフェクトに使っている画像を入れるディレクトリ
   
-　　├heart.png
+　│　├heart.png
     
-　　├onp_v2.png
+　│　└onp_v2.png
