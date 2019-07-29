@@ -16,6 +16,6 @@ AE/
     
 　└effects_img/　%エフェクトに使っている画像を入れるディレクトリ
   
-　　 ├heart.png
+　　 &nbsp;├heart.png
     
-　　 └onp_v2.png
+　　 &nbsp;└onp_v2.png
