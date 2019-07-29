@@ -6,16 +6,16 @@ AE
 
 　/After_Effects_test.aep
   
-  /ExtendScript.jsx
+　/ExtendScript.jsx
   
-  /image
+　/image
   
-    /写真10枚
+　　/写真10枚
     
-    /タグデータ.csv
+　　/タグデータ.csv
     
-  /effects_img
+　/effects_img
   
-    /heart.png
+　　/heart.png
     
-    /onp_v2.png
+　　/onp_v2.png
