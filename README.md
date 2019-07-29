@@ -4,7 +4,7 @@
 # フォルダ構成
 AE
 
-  /After_Effects_test.aep
+　/After_Effects_test.aep
   
   /ExtendScript.jsx
   
