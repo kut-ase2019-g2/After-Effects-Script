@@ -4,17 +4,17 @@
 # フォルダ構成
 AE
 
-　/After_Effects_test.aep　//アフターエフェクトのプログラム
+　/After_Effects_test.aep　%アフターエフェクトのプログラム
   
-　/ExtendScript.jsx　//エクステンドスクリプトのプログラム
+　/ExtendScript.jsx　%エクステンドスクリプトのプログラム
   
-　/image　//画像とタグデータを入れるディレクトリ
+　/image　%画像とタグデータを入れるディレクトリ
   
 　　/画像10枚
     
 　　/タグデータ.csv
     
-　/effects_img　//エフェクトに使っている画像を入れるディレクトリ
+　/effects_img　%エフェクトに使っている画像を入れるディレクトリ
   
 　　/heart.png
     
